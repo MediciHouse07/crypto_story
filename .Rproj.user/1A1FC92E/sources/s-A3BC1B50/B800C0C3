@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1641780770623.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B800C0C3",
+    "lastKnownWriteTime" : 1641780876,
+    "last_content_update" : 1641780876763,
+    "path" : "D:/DDog/analysis/shiny_project/crypto_history/ETL.R",
+    "project_path" : "ETL.R",
+    "properties" : {
+        "cursorPosition" : "6,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

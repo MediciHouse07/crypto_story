@@ -1,0 +1,7 @@
+library(dplyr)
+library(ggplot2)
+
+gdp <- read.csv("data/global_gdp.csv")
+
+#d <- ggplot(mpg, aes(fl))
+#d + geom_bar() 

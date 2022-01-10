@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1641779089631.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A50F197F",
+    "lastKnownWriteTime" : 1641784279,
+    "last_content_update" : 1641784279741,
+    "path" : "D:/DDog/analysis/shiny_project/crypto_history/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "27,20",
+        "scrollLine" : "8"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
